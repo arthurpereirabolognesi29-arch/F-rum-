@@ -1,4 +1,4 @@
-index.html
-topic.html
-style.css
-script.js
+/ (raiz)
+ ├── index.html
+ ├── script.js
+ └── (opcional) style.css
